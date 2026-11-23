@@ -1,0 +1,4 @@
+/files
+/git-lfs-test/
+/*.substvars
+/debhelper-build-stamp

@@ -1,0 +1,10 @@
+Source: git-lfs-test
+Maintainer: Molior Test <test@molior.info>
+Build-Depends: debhelper-compat (= 13)
+
+Package: git-lfs-test
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Molior test whether git lfs builds work
+ Checks out a git lfs file and creates a package containing
+ this file.

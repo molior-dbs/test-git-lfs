@@ -1,0 +1,3 @@
+targets:
+  molior-validation:
+  - "git-lfs"
